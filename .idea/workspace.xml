@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7de20040-319e-4d23-b876-eec0a4d04c19" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/behavioral/strategy/zad1/FormatterUpper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/behavioral/strategy/zad1/IFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/behavioral/strategy/zad1/FormatterInverter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/behavioral/strategy/zad1/Drukarka.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/behavioral/strategy/zad1/Drukarka.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/behavioral/strategy/zad1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/behavioral/strategy/zad1/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,15 +20,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/behavioral/strategy/zad1/Drukarka.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" column="57" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
+            <state relative-caret-position="100">
+              <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="49" />
               <folding>
                 <element signature="e#166#167#0" expanded="true" />
                 <element signature="e#208#209#0" expanded="true" />
+                <element signature="e#267#268#0" expanded="true" />
+                <element signature="e#328#329#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/behavioral/strategy/zad1/FormatterInverter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -59,8 +69,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/behavioral/strategy/zad1/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="170">
+              <caret line="23" column="48" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -135,10 +145,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/behavioral/strategy/przyklad/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/behavioral/strategy/przyklad/strategies/StrategyBowWithArrows.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/behavioral/strategy/przyklad/Hero.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/behavioral/strategy/zad1/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/behavioral/strategy/zad1/IFormatter.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/behavioral/strategy/zad1/FormatterUpper.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/behavioral/strategy/zad1/Drukarka.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/behavioral/strategy/zad1/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/behavioral/strategy/zad1/FormatterInverter.java" />
       </list>
     </option>
   </component>
@@ -234,7 +245,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553350863702" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553351825596" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
@@ -334,18 +345,18 @@
       <option name="presentableId" value="Default" />
       <updated>1553328022346</updated>
       <workItem from="1553328025454" duration="9154000" />
-      <workItem from="1553338761782" duration="10457000" />
+      <workItem from="1553338761782" duration="11412000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19611000" />
+    <option name="totallyTimeSpent" value="20566000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1919" y="0" width="1282" height="800" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49925262" visible="true" weight="0.2792208" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49925262" weight="0.2792208" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -692,13 +703,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/behavioral/strategy/zad1/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/behavioral/strategy/zad1/IFormatter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -719,12 +723,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/behavioral/strategy/zad1/Drukarka.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="57" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
+        <state relative-caret-position="100">
+          <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="49" />
           <folding>
             <element signature="e#166#167#0" expanded="true" />
             <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/behavioral/strategy/zad1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="23" column="48" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/behavioral/strategy/zad1/FormatterInverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>

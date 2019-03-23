@@ -21,6 +21,8 @@ public class Main {
                 String parserType = words[1];
                 if(parserType.equalsIgnoreCase("upper")){
                     // ustaw upper
+                    drukarka.setFormatter(new FormatterUpper()); //<< tak wygląda ustawienie formattera
+
                 }else if(parserType.equalsIgnoreCase("lower")){
                     // ustaw lower
                 }else if(parserType.equalsIgnoreCase("inverter")){
@@ -32,7 +34,7 @@ public class Main {
 
                 String tekstDoPrzetworzenia = words[1];
 
-                drukarka.reformat(tekstDoPrzetworzenia);
+                System.out.println(drukarka.reformat(tekstDoPrzetworzenia));;
 
             }else if(line.startsWith("quit")){
                 isRunning = false;
