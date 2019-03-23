@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7de20040-319e-4d23-b876-eec0a4d04c19" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/builder/zad2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/builder/zad2/Stamp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/abstractfactory/przyklad/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/abstractfactory/przyklad/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/abstractfactory/zad1/AbstractPC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/abstractfactory/zad1/AbstractPC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/abstractfactory/zad1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/abstractfactory/zad1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/builder/przyklad/Bohater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/builder/przyklad/Bohater.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/builder/przyklad/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/builder/przyklad/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zad1/Automat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/singleton/zad1/Automat.java" afterDir="false" />
-    </list>
+    <list default="true" id="7de20040-319e-4d23-b876-eec0a4d04c19" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -186,47 +175,6 @@
               <item name="wzorce" type="462c0819:PsiDirectoryNode" />
               <item name="creational" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="wzorce" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wzorce" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="wzorce" type="462c0819:PsiDirectoryNode" />
-              <item name="creational" type="462c0819:PsiDirectoryNode" />
-              <item name="abstractfactory" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wzorce" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wzorce" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="wzorce" type="462c0819:PsiDirectoryNode" />
-              <item name="creational" type="462c0819:PsiDirectoryNode" />
-              <item name="builder" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wzorce" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wzorce" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="wzorce" type="462c0819:PsiDirectoryNode" />
-              <item name="creational" type="462c0819:PsiDirectoryNode" />
-              <item name="builder" type="462c0819:PsiDirectoryNode" />
-              <item name="zad2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wzorce" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wzorce" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="wzorce" type="462c0819:PsiDirectoryNode" />
-              <item name="creational" type="462c0819:PsiDirectoryNode" />
-              <item name="singleton" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -237,7 +185,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553347508413" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553347740904" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
@@ -322,16 +270,15 @@
       <option name="presentableId" value="Default" />
       <updated>1553328022346</updated>
       <workItem from="1553328025454" duration="9154000" />
-      <workItem from="1553338761782" duration="7166000" />
+      <workItem from="1553338761782" duration="7416000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16320000" />
+    <option name="totallyTimeSpent" value="16570000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1919" y="0" width="1282" height="800" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49925262" visible="true" weight="0.2792208" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
