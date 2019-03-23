@@ -31,11 +31,10 @@ public class Bohater {
 
     public static class Builder {
         private String imie, nazwisko, drugieImie, imieMatki, imieOjca, imieDziadka1, imieDziadka2, imieBabci, imieBabci2, miejsceUrodzenia;
-        private int romiarButa, wysokosc, iloscZycia, iloscMany, iloscDzieci, iloscWnukow, iloscZwierzat, szerokoscWPasie, waga;
+        private int romiarButa = 32, wysokosc, iloscZycia, iloscMany, iloscDzieci, iloscWnukow, iloscZwierzat, szerokoscWPasie, waga;
         private double ilosZebow;
 
-        public Builder(String imie) {
-            this.imie = imie;
+        public Builder() {
         }
 
         public Builder setImie(String imie) {
@@ -58,10 +57,34 @@ public class Bohater {
             return this;
         }
 
-        public Bohater create(){
+        public Bohater create() {
             return new Bohater(imie, nazwisko, drugieImie, imieMatki, imieOjca, imieDziadka1, imieDziadka2, imieBabci, imieBabci2, miejsceUrodzenia, romiarButa, wysokosc, iloscZycia, iloscMany, iloscDzieci, iloscWnukow, iloscZwierzat, szerokoscWPasie, waga, ilosZebow);
         }
     }
 
-
+    @Override
+    public String toString() {
+        return "Bohater{" +
+                "imie='" + imie + '\'' +
+                ", nazwisko='" + nazwisko + '\'' +
+                ", drugieImie='" + drugieImie + '\'' +
+                ", imieMatki='" + imieMatki + '\'' +
+                ", imieOjca='" + imieOjca + '\'' +
+                ", imieDziadka1='" + imieDziadka1 + '\'' +
+                ", imieDziadka2='" + imieDziadka2 + '\'' +
+                ", imieBabci='" + imieBabci + '\'' +
+                ", imieBabci2='" + imieBabci2 + '\'' +
+                ", miejsceUrodzenia='" + miejsceUrodzenia + '\'' +
+                ", romiarButa=" + romiarButa +
+                ", wysokosc=" + wysokosc +
+                ", iloscZycia=" + iloscZycia +
+                ", iloscMany=" + iloscMany +
+                ", iloscDzieci=" + iloscDzieci +
+                ", iloscWnukow=" + iloscWnukow +
+                ", iloscZwierzat=" + iloscZwierzat +
+                ", szerokoscWPasie=" + szerokoscWPasie +
+                ", waga=" + waga +
+                ", ilosZebow=" + ilosZebow +
+                '}';
+    }
 }

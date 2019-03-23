@@ -3,6 +3,11 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/pom.xml">
           <value>
             <set />
@@ -58,12 +63,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/abstractfactory/zad1/AbstractPC.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/abstractfactory/zad1/AsusPC.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/abstractfactory/zad1/ComputerBrand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/abstractfactory/zad1/Main.java">
           <value>
             <set />
           </value>
@@ -94,6 +109,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/builder/przyklad/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/builder/zad2/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/builder/zad2/Stamp.java">
           <value>
             <set />
           </value>

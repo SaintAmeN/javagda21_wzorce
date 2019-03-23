@@ -4,6 +4,6 @@ public class Automat implements IGeneratorTicketow{
 
     public int generujTicket() {
 //        return GeneratorTicketow.getInstance().pobierzNastepnyNumerek();
-        return GeneratorTicketow.INSTANCE2.pobierzNastepnyNumerek();
+        return GeneratorTicketow.INSTANCE.pobierzNastepnyNumerek();
     }
 }

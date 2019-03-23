@@ -1,5 +1,9 @@
 package com.javagda21.wzorce.creational.abstractfactory.zad1;
 
+import lombok.Data;
+import lombok.Getter;
+import lombok.Setter;
+
 public abstract class AbstractPC {
     private String name;
     private ComputerBrand computerBrand;

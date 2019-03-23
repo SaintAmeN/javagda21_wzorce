@@ -5,9 +5,9 @@ import com.javagda21.wzorce.creational.abstractfactory.przyklad.carpackage.CarFa
 
 public class Main {
     public static void main(String[] args) {
-        Car c = CarFactory.
+//        Car c = CarFactory.
 
-        Bicycle bicycle = Bicycle.stworz8BiegowegoKross();
+//        Bicycle bicycle = Bicycle.stworz8BiegowegoKross();
 //        Bicycle bicycle2 = new Bicycle();
     }
 }
