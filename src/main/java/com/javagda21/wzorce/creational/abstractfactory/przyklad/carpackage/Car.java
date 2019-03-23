@@ -1,6 +1,5 @@
-package com.javagda21.wzorce.creational.abstractfactory.carpackage;
+package com.javagda21.wzorce.creational.abstractfactory.przyklad.carpackage;
 
-import lombok.AllArgsConstructor;
 import lombok.Data;
 
 @Data

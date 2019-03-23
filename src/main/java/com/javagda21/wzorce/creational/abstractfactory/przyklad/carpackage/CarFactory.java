@@ -1,4 +1,4 @@
-package com.javagda21.wzorce.creational.abstractfactory.carpackage;
+package com.javagda21.wzorce.creational.abstractfactory.przyklad.carpackage;
 
 public abstract class CarFactory { // abstract factory
 

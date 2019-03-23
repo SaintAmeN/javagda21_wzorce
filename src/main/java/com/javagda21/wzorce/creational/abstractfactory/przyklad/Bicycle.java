@@ -1,4 +1,4 @@
-package com.javagda21.wzorce.creational.abstractfactory;
+package com.javagda21.wzorce.creational.abstractfactory.przyklad;
 
 public class Bicycle {
     private String manufacturer;
