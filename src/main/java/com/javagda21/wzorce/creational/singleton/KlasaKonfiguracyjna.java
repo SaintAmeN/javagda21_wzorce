@@ -2,6 +2,11 @@ package com.javagda21.wzorce.creational.singleton;
 
 public class KlasaKonfiguracyjna {
 
+    public static final KlasaKonfiguracyjna instance = new KlasaKonfiguracyjna();
+
+    private KlasaKonfiguracyjna() {
+    }
+
     private int domyslnaIloscZyciaGracza = 100;
     private int domyslnaIloscRund = 5;
 
