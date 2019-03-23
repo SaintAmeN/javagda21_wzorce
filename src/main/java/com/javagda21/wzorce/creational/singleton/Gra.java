@@ -9,8 +9,8 @@ public class Gra {
 
     public Gra() {
 
-        System.out.println("Rozpoczynam grę, ilość rund: " + KlasaKonfiguracyjna.getInstance().getDomyslnaIloscRund());
-        this.iloscRund = KlasaKonfiguracyjna.getInstance().getDomyslnaIloscRund();
+        System.out.println("Rozpoczynam grę, ilość rund: " + KlasaKonfiguracyjna.INSTANCE.getDomyslnaIloscRund());
+        this.iloscRund = KlasaKonfiguracyjna.INSTANCE.getDomyslnaIloscRund();
 
         this.gracz1 = new Gracz();
         this.gracz2 = new Gracz();
