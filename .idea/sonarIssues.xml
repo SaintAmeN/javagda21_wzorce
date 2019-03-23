@@ -8,12 +8,82 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../adapterairlines/src/main/java/Adapter/PierwszaFirma.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/pom.xml">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/behavioral/strategy/Bohater.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/behavioral/strategy/Hero.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/behavioral/strategy/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/behavioral/strategy/przyklad/Hero.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/behavioral/strategy/przyklad/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/behavioral/strategy/przyklad/strategies/IStrategy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/behavioral/strategy/przyklad/strategies/StrategyBowWithArrows.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/behavioral/strategy/strategies/IStrategy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/behavioral/strategy/strategies/StrategyBowWithArrows.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/behavioral/strategy/strategies/StrategyRunAway.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/behavioral/strategy/strategies/StrategySword.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/behavioral/strategy/zad1/Drukarka.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/behavioral/strategy/zad1/Main.java">
           <value>
             <set />
           </value>
@@ -99,6 +169,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/abstractfactory/zad2/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/abstractfactory/zad2/bikepackage/BikeFactory.java">
           <value>
             <set />
           </value>

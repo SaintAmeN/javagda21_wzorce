@@ -2,7 +2,7 @@ package com.javagda21.wzorce.creational.builder.przyklad;
 
 public class Main {
     public static void main(String[] args) {
-//        Bohater bohater = new Bohater()
+//        Hero bohater = new Hero()
         Bohater.Builder builder = new Bohater.Builder();
 
         Bohater bohater = new Bohater.Builder()

@@ -64,7 +64,7 @@ public class Bohater {
 
     @Override
     public String toString() {
-        return "Bohater{" +
+        return "Hero{" +
                 "imie='" + imie + '\'' +
                 ", nazwisko='" + nazwisko + '\'' +
                 ", drugieImie='" + drugieImie + '\'' +
