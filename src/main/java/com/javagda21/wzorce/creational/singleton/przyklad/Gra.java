@@ -1,4 +1,4 @@
-package com.javagda21.wzorce.creational.singleton;
+package com.javagda21.wzorce.creational.singleton.przyklad;
 
 public class Gra {
 
