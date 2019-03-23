@@ -1,4 +1,4 @@
-package com.javagda21.wzorce.creational.abstractfactory.zad2;
+package com.javagda21.wzorce.creational.abstractfactory.zad2.bikepackage;
 
 import lombok.Data;
 

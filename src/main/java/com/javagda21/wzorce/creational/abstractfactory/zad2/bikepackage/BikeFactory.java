@@ -1,4 +1,4 @@
-package com.javagda21.wzorce.creational.abstractfactory.zad2;
+package com.javagda21.wzorce.creational.abstractfactory.zad2.bikepackage;
 
 public abstract class BikeFactory {
     public static Bike stworz1OsobowegoKrossa5Przerzutek() {
