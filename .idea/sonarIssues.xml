@@ -353,6 +353,26 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/structural/decorator/Hero.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/structural/decorator/HeroOnAHorse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/structural/decorator/IHero.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/structural/decorator/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../javagda23/wzorce/src/main/java/com/javagda19/designpatterns/construct/observerObservable/NewsStation.java">
           <value>
             <set />
