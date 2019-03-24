@@ -1,4 +1,4 @@
-package com.javagda21.wzorce.structural.adapter;
+package com.javagda21.wzorce.structural.adapter.przyklad;
 
 import java.util.ArrayList;
 import java.util.List;

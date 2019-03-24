@@ -1,4 +1,4 @@
-package com.javagda21.wzorce.structural.adapter;
+package com.javagda21.wzorce.structural.adapter.przyklad;
 
 public final class Lodowka {
     public void switchOn() {

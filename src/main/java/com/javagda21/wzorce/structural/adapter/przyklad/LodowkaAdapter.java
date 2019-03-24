@@ -1,4 +1,4 @@
-package com.javagda21.wzorce.structural.adapter;
+package com.javagda21.wzorce.structural.adapter.przyklad;
 
 public class LodowkaAdapter implements IDevice {
     private Lodowka lodowka;

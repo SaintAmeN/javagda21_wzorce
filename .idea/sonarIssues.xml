@@ -18,6 +18,51 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../designpatternadapterexercise/src/main/java/com/sda/dp/Kitchen.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../designpatternadapterexercise/src/main/java/com/sda/dp/KitchenDevice.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../designpatternadapterexercise/src/main/java/com/sda/dp/adapters/CoffeMachineAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../designpatternadapterexercise/src/main/java/com/sda/dp/adapters/CoffeMachineInheritedAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../designpatternadapterexercise/src/main/java/com/sda/dp/adapters/FridgeAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../designpatternadapterexercise/src/main/java/com/sda/dp/adapters/OvenAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../designpatternadapterexercise/src/main/java/com/sda/dp/devices/CoffeMachine.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../designpatternadapterexercise/src/main/java/com/sda/dp/devices/Fridge.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../designpatternadapterexercise/src/main/java/com/sda/dp/devices/Oven.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/pom.xml">
           <value>
             <set />
@@ -388,6 +433,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/structural/adapter/przyklad/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/structural/adapter/przyklad/Pralka.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/structural/decorator/Hero.java">
           <value>
             <set />
@@ -444,6 +499,71 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/structural/decorator/zad2/SimplePizza.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/structural/facadeproxy/Car.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/structural/facadeproxy/ICar.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/structural/facadeproxy/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/structural/facadeproxy/przyklad1/ICar.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/structural/facadeproxy/przyklad1/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/structural/facadeproxy/przyklad2/ICheckable.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/structural/facadeproxy/przyklad2/IRocketWithEngine.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/structural/facadeproxy/przyklad2/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/structural/facadeproxy/przyklad2/Mechanic.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/structural/facadeproxy/przyklad2/Rocket.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/structural/facadeproxy/przyklad2/RocketPilot.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/structural/facadeproxy/zad1/FileManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/structural/facadeproxy/zad1/ISimpleFileManager.java">
           <value>
             <set />
           </value>
