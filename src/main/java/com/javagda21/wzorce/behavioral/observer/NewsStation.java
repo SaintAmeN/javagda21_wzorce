@@ -8,8 +8,8 @@ public class NewsStation extends Observable {
         addObserver(watcher);
     }
 
-    public void powiadomOWiadomosci(String wiadomosc){
+    public void powiadomOWiadomosci(int waga, String wiadomosc){
         setChanged();
-        notifyObservers(new Message(1, wiadomosc));
+        notifyObservers(new News(waga, wiadomosc));
     }
 }
