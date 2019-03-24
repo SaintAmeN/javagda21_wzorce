@@ -1,4 +1,4 @@
-package com.javagda21.wzorce.structural.decorator;
+package com.javagda21.wzorce.structural.decorator.przyklad;
 
 import lombok.Data;
 

@@ -1,4 +1,4 @@
-package com.javagda21.wzorce.structural.decorator;
+package com.javagda21.wzorce.structural.decorator.przyklad;
 
 public class HeroOnAHorse implements IHero {
     private Hero hero;

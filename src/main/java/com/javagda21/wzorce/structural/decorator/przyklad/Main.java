@@ -1,4 +1,4 @@
-package com.javagda21.wzorce.structural.decorator;
+package com.javagda21.wzorce.structural.decorator.przyklad;
 
 public class Main {
     public static void main(String[] args) {
