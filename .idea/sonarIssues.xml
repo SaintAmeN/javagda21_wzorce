@@ -88,6 +88,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/behavioral/strategy/zad1/FormatterSplitter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/behavioral/strategy/zad1/FormatterUpper.java">
           <value>
             <set />
@@ -99,6 +104,36 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/behavioral/strategy/zad1/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/behavioral/strategy/zad4/GraphicsCard.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/behavioral/strategy/zad4/HdSetting.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/behavioral/strategy/zad4/IGraphicsSetting.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/behavioral/strategy/zad4/LowSetting.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/behavioral/strategy/zad4/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/behavioral/strategy/zad4/MediumSetting.java">
           <value>
             <set />
           </value>
