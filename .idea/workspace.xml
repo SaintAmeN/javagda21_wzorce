@@ -2,16 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7de20040-319e-4d23-b876-eec0a4d04c19" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/structural/decorator/zad2/CustomPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/structural/decorator/zad2/IPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/structural/decorator/zad2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/structural/decorator/zad2/SimplePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/structural/decorator/zad2/Pizzeria.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/structural/decorator/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/structural/decorator/przyklad/Hero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/structural/decorator/HeroOnAHorse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/structural/decorator/przyklad/HeroOnAHorse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/structural/decorator/IHero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/structural/decorator/przyklad/IHero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/structural/decorator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/structural/decorator/przyklad/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/structural/decorator/zad2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/structural/decorator/zad2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/javagda21/wzorce/structural/decorator/Hero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/javagda21/wzorce/structural/decorator/HeroOnAHorse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/javagda21/wzorce/structural/decorator/IHero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/javagda21/wzorce/structural/decorator/Main.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -25,127 +23,7 @@
     <favorites_list name="wzorce" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/structural/decorator/zad2/CustomPizza.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#308#309#0" expanded="true" />
-                <element signature="e#354#355#0" expanded="true" />
-                <element signature="e#254#255#0" expanded="true" />
-                <element signature="e#278#279#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/structural/decorator/przyklad/Hero.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-              <folding>
-                <element signature="e#379#380#0" expanded="true" />
-                <element signature="e#398#399#0" expanded="true" />
-                <element signature="e#510#511#0" expanded="true" />
-                <element signature="e#534#535#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/structural/decorator/przyklad/HeroOnAHorse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding>
-                <element signature="e#231#232#0" expanded="true" />
-                <element signature="e#263#264#0" expanded="true" />
-                <element signature="e#232#233#0" expanded="true" />
-                <element signature="e#256#257#0" expanded="true" />
-                <element signature="e#410#411#0" expanded="true" />
-                <element signature="e#485#486#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/structural/decorator/przyklad/IHero.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/structural/decorator/zad2/IPizza.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/structural/decorator/zad2/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/behavioral/observer/News.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/behavioral/observer/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/structural/decorator/przyklad/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/structural/decorator/zad2/SimplePizza.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="14" column="42" lean-forward="true" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#213#214#0" expanded="true" />
-                <element signature="e#259#260#0" expanded="true" />
-                <element signature="e#413#414#0" expanded="true" />
-                <element signature="e#253#254#0" expanded="true" />
-                <element signature="e#277#278#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -171,8 +49,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/abstractfactory/zad2/BikeType.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/abstractfactory/zad2/BikeFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/abstractfactory/zad2/Bike.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/abstractfactory/przyklad/Main.java" />
@@ -222,6 +98,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/structural/decorator/zad2/IPizza.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/structural/decorator/zad2/SimplePizza.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/structural/decorator/zad2/CustomPizza.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/structural/decorator/zad2/Pizzeria.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/structural/decorator/zad2/Main.java" />
       </list>
     </option>
   </component>
@@ -328,7 +206,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553425424793" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553426047250" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -399,6 +277,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javagda21.wzorce.structural.decorator.zad2.Main" />
+      <module name="wzorce" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javagda21.wzorce.structural.decorator.zad2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javagda21.wzorce.creational.singleton.przyklad.Main" />
       <module name="wzorce" />
@@ -455,9 +346,9 @@
       <list>
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -473,16 +364,15 @@
       <updated>1553328022346</updated>
       <workItem from="1553328025454" duration="9154000" />
       <workItem from="1553338761782" duration="11718000" />
-      <workItem from="1553418124950" duration="7299000" />
+      <workItem from="1553418124950" duration="8476000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28171000" />
+    <option name="totallyTimeSpent" value="29348000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1919" y="0" width="1282" height="800" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49925262" visible="true" weight="0.2792208" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -521,13 +411,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/abstractfactory/zad2/bikepackage/BikeType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/creational/abstractfactory/zad2/bikepackage/Bike.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -952,13 +835,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/structural/decorator/zad2/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/structural/decorator/zad2/CustomPizza.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
@@ -970,6 +846,20 @@
             <element signature="e#254#255#0" expanded="true" />
             <element signature="e#278#279#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/structural/decorator/zad2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javagda21/wzorce/structural/decorator/zad2/Pizzeria.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
         </state>
       </provider>
     </entry>
